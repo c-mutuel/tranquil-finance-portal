@@ -25,7 +25,7 @@ const Dashboard = () => {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             <AccountCard
               type="COMPTE COURANT"
-              name="M JEAN DUPONT"
+              name="MME ANNE HOUVRET JOSIANE"
               accountNumber="00111 202928 01"
               balance={15808709}
               link="/accounts/current"
@@ -33,7 +33,7 @@ const Dashboard = () => {
             
             <AccountCard
               type="LIVRET EPARGNE"
-              name="M JEAN DUPONT"
+              name="MME ANNE HOUVRET JOSIANE"
               accountNumber="00111 202928 02"
               balance={2228.79}
               link="/accounts/savings"
@@ -41,7 +41,7 @@ const Dashboard = () => {
             
             <AccountCard
               type="CREDIT AUTO"
-              name="M JEAN DUPONT"
+              name="MME ANNE HOUVRET JOSIANE"
               accountNumber="00111 202928 30"
               balance={-693.43}
               link="/loans/auto"

@@ -34,7 +34,7 @@ const Accounts = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <AccountCard
               type="COMPTE COURANT"
-              name="M JEAN DUPONT"
+              name="MME ANNE HOUVRET JOSIANE"
               accountNumber="00111 202928 01"
               balance={1072.00}
               link="/accounts/current"
@@ -64,7 +64,7 @@ const Accounts = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <AccountCard
               type="LIVRET EPARGNE"
-              name="M JEAN DUPONT"
+              name="MME ANNE HOUVRET JOSIANE"
               accountNumber="00111 202928 02"
               balance={2228.79}
               link="/accounts/savings"
@@ -72,7 +72,7 @@ const Accounts = () => {
             
             <AccountCard
               type="PLAN D'EPARGNE LOGEMENT"
-              name="M JEAN DUPONT"
+              name="MME ANNE HOUVRET JOSIANE"
               accountNumber="47575 200934 10"
               balance={810.74}
               link="/accounts/housing"

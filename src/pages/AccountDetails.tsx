@@ -36,7 +36,7 @@ const AccountDetails = () => {
           <div>
             <p className="text-gray-500">00111 202928 01</p>
             <h2 className="text-2xl font-medium text-gray-800">COMPTE COURANT</h2>
-            <p className="text-gray-700">M JEAN DUPONT</p>
+            <p className="text-gray-700">MME ANNE HOUVRET JOSIANE</p>
           </div>
         </div>
         
